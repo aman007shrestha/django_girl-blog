@@ -31,12 +31,16 @@ h1, h2, h3, h4 {
 .post-form textarea, .post-form input {
 	width: 100%;
 }
-.top-menu, .top-menu:hover, .top-menu:visited {
+.top-menu, .top-menu:visited {
 	color: #ffffff;
 	float: right;
-	font-size: 26pt;
+	font-size: 40pt;
 	margin-right: 20px;
 }
+.top-menu:hover {
+	color: #e6f2ff;
+}
+
 .post {
 	border: 2px solid #f4f5e4;
 	padding: 10px;
